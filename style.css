@@ -1,16 +1,11 @@
 .s2{
-    background-image: url(" ze.jpg") ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: right center;
+    background-image: url("fundo2.fw.png") ,url("ze.jpg") ;
+
+    background-repeat: repeat-x , no-repeat;
+    background-size: left, cover;
+    background-position:  top, center center ;
     
     
-}
-
-
-.s1{
-    
-
 }
 
 
