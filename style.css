@@ -1,15 +1,18 @@
 .s2{
-    background-image: url("fundo2.fw.png") ,url("ze.jpg") ;
+    background-image: url("fundo2.fw.png") ;
 
-    background-repeat: repeat-x , no-repeat;
-    background-size: left, cover;
-    background-position:  top, center center ;
+    background-repeat: repeat-x  ;
+    background-size: left ;
+    background-position:  top  ;
     
     
 }
 
 body{
-    background-color: #2f353a;
+    background-color: #FF4D4D;
+    background-image: url(ze.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
